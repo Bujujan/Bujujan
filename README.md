@@ -1,4 +1,4 @@
-# Hi, I'm Bujujan Abdellah
+# 👋🏻 Hi, I'm Bujujan Abdellah
 💻 Software Engineering Student <br>📚 I’m currently learning React / Angular<br>🔭 I’m currently working on small projects / Creating a startup<br>🌐 I’m Interested in Web Development, especially Front-End<br> 📱  Mobile Development is my next goal 
 
 
