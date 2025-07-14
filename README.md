@@ -1,9 +1,44 @@
-# 👋🏻 Hi, I'm Bujujan Abdellah
-💻 Software Engineering Student <br>📚 I’m currently learning React / Angular<br>🔭 I’m currently working on small projects / Creating a startup<br>🌐 I’m Interested in Web Development, especially Front-End<br> 📱  Mobile Development is my next goal 
+# 👋 Hi there! I'm Bujujan Abdellah
 
+🎓 I'm a passionate **Software Engineering student** with a strong focus on **Full-Stack Development**. I specialize in building scalable, efficient, and user-focused web and mobile applications. Whether it's crafting intuitive user interfaces or building robust APIs, I love working across the entire tech stack to bring ideas to life.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdellah-boujoujan) 
+---
+
+## 💼 What I Do
+
+- 🔧 **Full-Stack Web Development**
+  - Frontend: `Next.js`, `React`, `Tailwind CSS`
+  - Backend: `Spring Boot (Java)`, `Node.js`, `Express`, `REST APIs`
+- 📱 **Mobile Development**
+  - Framework: `Expo (React Native)` for cross-platform apps
+- 🛠️ Other Tools & Tech:
+  - Databases: `PostgreSQL`, `MySQL`, `MongoDB`
+  - DevOps: `Docker`, `Git`, `GitHub Actions`
+  - Authentication: `JWT`, `OAuth`, `Clerk`
+
+---
+
+## 🚀 Projects & Experience
+
+I’ve worked on various academic and personal projects including:
+- 🌐 Web platforms with authentication, dashboards, and real-time features.
+- 📲 Mobile apps built with Expo for both Android and iOS.
+- ⚙️ Backend systems using Spring Boot and RESTful architecture.
+
+> I'm always learning and exploring new technologies to improve my skills and stay current with the industry.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdellah-boujoujan)  
+- 📧 Email: Bujujan.ru@gmail.com 
+- 🌍 Portfolio: [Bujujan](https://bujujan-portfolio.vercel.app/)
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and get in touch if you'd like to collaborate. 🚀
+
 
 
 # 💻 Tech Stack:
